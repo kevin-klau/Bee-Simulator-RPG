@@ -10,9 +10,9 @@ Play as a Bee in **DIFFERENT** maps of your choosing!!!
 
 Collect **items** to increase your attack ⚔️ and defense 🛡️ stats!!!
 
-Fight different **enemies** along your way to saving the **WORLD**
+Fight different **enemies** along your way to saving the **WORLD** 🌎
 
-Make sure to **regain your health** the various health pads located throughout the map!!!
+Make sure to **regain your health** the various health pads🏥 located throughout the map!!!
 
 ***
 Created by: Kevin Lau
