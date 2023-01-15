@@ -14,5 +14,7 @@ Fight different **enemies** along your way to saving the **WORLD** 🌎
 
 Make sure to **regain your health** the various health pads🏥 located throughout the map!!!
 
+PS: Run the game through RPGWorld.java!
+
 ***
 Created by: Kevin Lau
